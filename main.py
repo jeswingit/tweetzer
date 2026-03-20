@@ -1,4 +1,4 @@
-"""Entry point for Tweetzer - Twitter Hashtag Sentiment Analysis."""
+"""Entry point for Tweetzer - sTwitter Hashtag Sentiment Analysis."""
 import sys
 
 from config import validate_config
